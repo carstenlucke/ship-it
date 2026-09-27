@@ -1,5 +1,9 @@
 # Ship It!
 
+> [!IMPORTANT]
+> **Dieses Repository ist archiviert und wird nicht mehr gepflegt.**
+> Das Projekt wird unter [carstenlucke/schnupper](https://github.com/carstenlucke/schnupper) weitergeführt und erweitert.
+
 Live-Demo für eine Schnuppervorlesung bei StudiumPlus (90 Min, 12. Klasse FOS). Schüler wählen ein Produkt, 5 KI-Agenten erledigen den kompletten Produktlaunch – von der Zielgruppenanalyse bis zur fertigen Landingpage. Das Projekt umfasst die App sowie eine begleitende Slidev-Präsentation.
 
 ## Quickstart
